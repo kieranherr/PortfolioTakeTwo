@@ -1,25 +1,23 @@
-.page{
-    background-color: rgba(0, 0, 0, 0);
+body{
+    background-color: #A4A4A4 !important;
+    overflow: auto;
 }
+
 .jumbo1 {
     padding: 10px 25px 10px 25px;
     padding-bottom: 56.25%;
    }
+   .jumbotron{
+    background-color: #CECECE !important;
+    overflow: auto;
+   }
+   .topBar{
+    background-color: #CECECE !important;
+    overflow: auto;
+   }
    .btn{
        background-color: #18a4bc !important;
        border-color: #18a4bc !important;
-   }
-   .button1{
-    width: 33%;
-    margin-bottom: 5px;
-   }
-   .button2{
-       width: 33%;
-       margin-bottom: 5px;
-   }
-   .button3{
-       width: 33%;
-       margin-bottom: 5px;
    }
    .AB1{
        margin-bottom: 25px;
